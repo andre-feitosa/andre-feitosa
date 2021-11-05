@@ -4,7 +4,7 @@
 ![André Feitosa GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-feitosa&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-feitosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Minhas Tecnologias
+### My Technologies
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
