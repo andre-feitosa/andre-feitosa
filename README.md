@@ -1,7 +1,7 @@
 ## Hello, i'm André 👋
 
 
-![André Feitosa GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-feitosa&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-feitosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![André Feitosa GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-feitosa&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-feitosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### My Technologies
